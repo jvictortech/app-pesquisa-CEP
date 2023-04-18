@@ -1,16 +1,17 @@
-# flutter_application_teste
+# app_pesquisa CEP
 
-A new Flutter project.
+Programa desenvolvido no Framework Flutter, feito na disciplina de Programação Mobile com orientação e supervisão do Profº Msc.: Deriks Karlay Dias Costa
+(https://github.com/karlaycosta)  
 
-## Getting Started
+Acesse o projeto em: (https://github.com/jvictortech/pesquisacep)
+# O que o programa faz: 
 
-This project is a starting point for a Flutter application.
+Esse programa foi desenvolvido para consultas de endereços atraves do CEP, usando API Via CEP (https://viacep.com.br/)
 
-A few resources to get you started if this is your first Flutter project:
+# Tecnologias utilizadas
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Video Interface]
